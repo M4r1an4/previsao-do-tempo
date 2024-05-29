@@ -1,0 +1,15 @@
+body{
+    background-color: darkgray;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h3, .App{
+    text-align: center;
+
+}
+
